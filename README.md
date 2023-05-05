@@ -8,4 +8,4 @@
 
 2.获取虎牙直播[推流地址](https://i.huya.com/index.php?m=ProfileSetting#ktylts "推流地址")
 
-3.运行main.py,根据提示填入相关参数
+3.运行main.py，根据提示填入相关参数
